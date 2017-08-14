@@ -1,8 +1,10 @@
 #CSS 애니메이션
-##css에 대하여
-1.
-2.
-3.
+## CSS Animation
+>CSS 애니매이션에 대해서...
+
+1.animation 속성
+2.transition 속성
+3.transform 속성
 
 ```css
 .main-menu {
