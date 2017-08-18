@@ -16,6 +16,7 @@ $(function() {
         }
     });
     last_menu.on('focusout', function() {
+        container.toggleClass('menubar-act')
         main_menu.toggleClass('main-menu-act')
     });
 });
